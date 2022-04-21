@@ -1,0 +1,30 @@
+@font-face {  
+    font-family: 'BeauRivage-Regular'; 
+    src: url('BeauRivage-Regular.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+  }
+@font-face {  
+    font-family: 'ZCOOLKuaiLe-Regular'; 
+    src: url('ZCOOLKuaiLe-Regular.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+  }
+@font-face {  
+    font-family: 'XinHuaKaiTi-1'; 
+    src: url('XinHuaKaiTi-1.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+}
+@font-face {  
+  font-family: 'Caveat-Regular'; 
+  src: url('Caveat-Regular.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}
+@font-face {  
+  font-family: 'Raleway'; 
+  src: url('Raleway-VariableFont_wght.ttf');  
+  font-weight: normal;  
+  font-style: normal;  
+}

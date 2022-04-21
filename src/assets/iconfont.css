@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3329199 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1649926692253') format('woff2'),
+       url('iconfont.ttf?t=1649926692253') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 25px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin:0px 9px 0px 4px;
+}
+
+.ali-icon-github:before {
+  content: "\e63a";
+}
+
+.ali-icon-QQ:before {
+  content: "\e667";
+}
+
+.ali-icon-Bzhan:before {
+  content: "\e656";
+}
+
+.ali-icon-weixin:before {
+  content: "\e607";
+}
+
